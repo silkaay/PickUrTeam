@@ -1,1 +1,1 @@
-# TeamUPick
+# PickUrTeam
